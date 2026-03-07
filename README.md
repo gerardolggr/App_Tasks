@@ -3,6 +3,7 @@ Task Manager Program on Solana
 Descripción del proyecto
 Este proyecto implementa un programa en Solana utilizando Rust y Anchor que permite a los usuarios gestionar tareas almacenadas on-chain.
 Cada usuario tiene una cuenta derivada por programa (PDA) donde se almacenan sus tareas, permitiendo operaciones CRUD como crear, actualizar, eliminar y visualizar tareas.
+El proyecto esta pensando para aplicar conceptos de gamificación gestionando tareas almacenadas en on-chain.
 
 Tecnologías usadas
 - Rust
